@@ -7,7 +7,7 @@
 ![Github Commits](https://img.shields.io/github/commits-since/LTS-FFXIV/LTSRotatos/latest/main?style=for-the-badge)
 
 ```
-https://github.com/LTS-FFXIV/LTSRotatos/releases/latest/download/SupportersRotations.dll
+https://github.com/LTS-FFXIV/LTSRotatos/releases/latest/download/LTSRotatos.dll
 ```
 
 [![Discord](https://discordapp.com/api/guilds/1064448004498653245/embed.png?style=banner2)](
