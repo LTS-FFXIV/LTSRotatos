@@ -7,6 +7,7 @@
 	  <DalamudLibPath>$(AppData)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
 	  <Platforms>AnyCPU</Platforms>
 	  <Version>0.0.1</Version>
+	  <RSversion>3.5.6.9</RSversion>
 	  <Authors>LTS</Authors>
   </PropertyGroup>
 
