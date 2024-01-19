@@ -10,5 +10,9 @@
 https://github.com/LTS-FFXIV/LTSRotatos/releases/latest/download/LTSRotatos.dll
 ```
 
+```
+https://github.com/LTS-FFXIV/LTSRotatos/releases/latest/download/KG.Kirbo.dll
+```
+
 [![Discord](https://discordapp.com/api/guilds/1064448004498653245/embed.png?style=banner2)](
 https://discord.gg/p54TZMPnC9)
