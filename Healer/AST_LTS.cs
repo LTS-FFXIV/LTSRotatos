@@ -3,7 +3,7 @@
 [RotationDesc(ActionID.Divination)]
 [SourceCode(Path = "main/LTSRotatos/Healer/AST_LTS.cs")]
 [YoutubeLink(ID = "qYr8G5Ckf5I&list=PLW4S_gRQKSrshDWTDODNN03Dh1Q1QjMpo")]
-public sealed class AST_Supporters : AST_Base
+public sealed class AST_LTS : AST_Base
 {
     public override CombatType Type => CombatType.PvE;
     private const string 
