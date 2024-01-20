@@ -2,7 +2,7 @@
 
 [SourceCode(Path = "main/LTSRotatos/Tank/WAR_LTS.cs")]
 [LinkDescription("https://cdn.discordapp.com/attachments/277962807813865472/963548326433796116/unknown.png")]
-public sealed class WAR_Supporters : WAR_Base
+public sealed class WAR_LTS : WAR_Base
 {
     public override CombatType Type => CombatType.PvE;
 
