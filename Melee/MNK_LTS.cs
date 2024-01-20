@@ -3,7 +3,7 @@
 [RotationDesc(ActionID.RiddleOfFire)]
 [SourceCode(Path = "main/LTSRotatos/Melee/MNK_LTS.cs")]
 [LinkDescription("https://i.imgur.com/C5lQhpe.png")]
-public class MNK_Supporters : MNK_Base
+public class MNK_LTS : MNK_Base
 {
     public override CombatType Type => CombatType.PvE;
 
