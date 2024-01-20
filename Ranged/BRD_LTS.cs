@@ -1,7 +1,7 @@
 ﻿namespace LTSRotatos.Ranged;
 
 [SourceCode(Path = "main/LTSRotatos/Ranged/BRD_LTS.cs")]
-public class BRD_Supporters : BRD_Base
+public class BRD_LTS : BRD_Base
 {
     public override CombatType Type => CombatType.Both;
     public override string GameVersion => "6.55";
