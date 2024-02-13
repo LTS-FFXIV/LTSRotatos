@@ -6,9 +6,6 @@
 ![Github License](https://img.shields.io/github/license/LTS-FFXIV/LTSRotatos.svg?label=License&style=for-the-badge)
 ![Github Commits](https://img.shields.io/github/commits-since/LTS-FFXIV/LTSRotatos/latest/main?style=for-the-badge)
 
-```
-https://github.com/LTS-FFXIV/LTSRotatos/releases/latest/download/LTSRotatos.dll
-```
 
 ```
 https://github.com/LTS-FFXIV/LTSRotatos/releases/latest/download/KG.Kirbo.dll
