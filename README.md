@@ -1,4 +1,4 @@
-# LTS Rotations
+# Kirbo's Archived Rotations, last known good
 
 ![Github Latest Releases](https://img.shields.io/github/downloads/LTS-FFXIV/LTSRotatos/latest/total.svg?style=for-the-badge)
 ![Github All Releases](https://img.shields.io/github/downloads/LTS-FFXIV/LTSRotatos/total.svg?style=for-the-badge)
